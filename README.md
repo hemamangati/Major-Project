@@ -61,3 +61,11 @@ The project is implemented in Python using popular deep learning libraries such 
 
 ![output_image](https://github.com/hemamangati/Major-Project/assets/126091424/49a7ccb4-d459-4db2-8241-c9530643346c)
 
+# Cancerous
+
+![cancerous](https://github.com/hemamangati/Major-Project/assets/126091424/b7122cf1-4482-4558-bcc6-519fd7b1888b)
+
+# Non Cancerous
+
+![non_cancerous](https://github.com/hemamangati/Major-Project/assets/126091424/c2c6d374-424b-4c2e-9057-8cf1becaf1da)
+
