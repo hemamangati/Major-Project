@@ -45,6 +45,7 @@ The project utilizes a Convolutional Neural Network (CNN) for image classificati
 **Output Layer:** Produces the final prediction (cancerous or non-cancerous).
 
 **Implementation :**
+
 The project is implemented in Python using popular deep learning libraries such as TensorFlow and Keras. Key steps include:
 
 **Data Preprocessing:** Normalizing and augmenting the images to improve model generalization.
