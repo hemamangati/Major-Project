@@ -1,4 +1,4 @@
-**Lung Cancer Prediction Using CNN on Histopathological Images**
+# **Lung Cancer Prediction Using CNN on Histopathological Images**
 
 ****Overview**  :**
 
