@@ -51,3 +51,6 @@ The project is implemented in Python using popular deep learning libraries such 
 **Model Evaluation:** Assessing the model's performance using metrics such as accuracy, precision, recall, and F1-score.
 
 **Model Deployment:** Providing a user-friendly interface for medical professionals to upload and analyze histopathological images.
+
+
+[Dataset Link](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
