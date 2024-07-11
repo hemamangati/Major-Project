@@ -13,6 +13,9 @@ Achieve high accuracy and reliability in predictions to assist medical professio
 Explore various CNN architectures and techniques to enhance model performance.
 
 **Dataset :**
+
+[Dataset Link](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
+
 The dataset used in this project consists of histopathological images of lung tissue. 
 
 These images are typically obtained through biopsies and contain detailed cellular structures. 
@@ -53,4 +56,4 @@ The project is implemented in Python using popular deep learning libraries such 
 **Model Deployment:** Providing a user-friendly interface for medical professionals to upload and analyze histopathological images.
 
 
-[Dataset Link](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
+
