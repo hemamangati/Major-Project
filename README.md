@@ -57,4 +57,7 @@ The project is implemented in Python using popular deep learning libraries such 
 **Model Deployment:** Providing a user-friendly interface for medical professionals to upload and analyze histopathological images.
 
 
+# Output
+
+![output_image](https://github.com/hemamangati/Major-Project/assets/126091424/49a7ccb4-d459-4db2-8241-c9530643346c)
 
